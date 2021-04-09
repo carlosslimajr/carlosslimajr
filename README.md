@@ -2,26 +2,19 @@
 ## Hi there, I'm Carlos 👋
 
   
-I am a young student, currently studying to become a full-stack programmer
+I'm a Full-Stack Developer at SlideWorks living in Feira de Santana, Bahia, Brazil.
 
-  
-- 🌱 I’m currently learning everything
-
-- 🔭 Currently working as trainee web developer
-
-- 🥅 2020 Goals: Being a full-stack developer
-
-- ⚡ Fun fact: I love to play games
-
-  
 ### Tecnologies i'm working/learning right now
 
 * #### Front-end
 | Javascript | React.js | Vue.js | Angular | Consuming API's | Clean code |
 
 * ##### Back-end
- | Node.js | Express | MySQL | Docker | Git | Unity Test |
+ | Node.js | Express | MySQL | Git | Unity Test |
  
+
+- 🌱 I’m currently learning about React-Native, Docker, Graphql
+
 
 <br />
 <br />
