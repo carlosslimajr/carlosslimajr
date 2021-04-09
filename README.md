@@ -9,12 +9,13 @@ I'm a Full-Stack Developer at SlideWorks living in Feira de Santana, Bahia, Braz
 * #### Front-end
 | Javascript | React.js | Vue.js | Angular |
 
-* ##### Back-end
- | Node.js | Express |  Git | Unity Test |
- 
 
+* ##### Back-end
+| Node.js | Express |  Git | Unity Test |
+ 
+ 
 * #### Learning - 🌱 I’m currently learning about React-Native, Docker, Graphql
-   | React-Native | Graphql | Docker | Java |
+| React-Native | Graphql | Docker | Java |
 
 
 <br />
